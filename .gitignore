@@ -1,0 +1,7 @@
+
+.DS_Store
+/bin
+captured_image.jpg
+cropped_card.jpg
+/lib
+pyvenv.cfg
