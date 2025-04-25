@@ -8,6 +8,8 @@ import csv
 from azure.ai.vision.imageanalysis import ImageAnalysisClient
 from azure.ai.vision.imageanalysis.models import VisualFeatures
 from azure.core.credentials import AzureKeyCredential
+import openpyxl
+import time
 
 # setup env: python3 -m venv <path>/cardScan
 # env: source <path>/cardScan/bin/activate
@@ -128,89 +130,141 @@ def append_to_json(file_name, data):
             json.dump([data], file, indent=4)
 
 # Function to detect motion and capture image
-def detect_motion_and_capture():
+def detect_motion_and_capture(skip_motion_detection=False):
     cap = cv2.VideoCapture(0)
-    ret, frame1 = cap.read()
-    ret, frame2 = cap.read()
     
-    # Get the dimensions of the frame
-    height, width = frame1.shape[:2]
-    
-    # Define the coordinates for the square in the center
-    center_x, center_y = width // 2, height // 2
-    roi_x1, roi_y1 = center_x - 50, center_y - 100
-    roi_x2, roi_y2 = center_x + 50, center_y + 100
-    
-    while cap.isOpened():
-        diff = cv2.absdiff(frame1, frame2)
-        gray = cv2.cvtColor(diff, cv2.COLOR_BGR2GRAY)
-        blur = cv2.GaussianBlur(gray, (21, 21), 0)
-        _, thresh = cv2.threshold(blur, 25, 255, cv2.THRESH_BINARY)
-        dilated = cv2.dilate(thresh, None, iterations=2)
-        contours, _ = cv2.findContours(dilated, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+    if not skip_motion_detection:
+        ret, frame1 = cap.read()
+        ret, frame2 = cap.read()
         
-        for contour in contours:
-            if cv2.contourArea(contour) < 2000:  # Increase the minimum contour area to reduce sensitivity
-                continue
-            
-            x, y, w, h = cv2.boundingRect(contour)
-            
-            # Check if the contour is within the defined ROI
-            if roi_x1 <= x <= roi_x2 and roi_y1 <= y <= roi_y2:
-                cv2.rectangle(frame1, (x, y), (x + w, y + h), (0, 255, 0), 2)
-                print("Motion detected! Waiting for 1 second...")
-                cv2.waitKey(1000)
+        # Get the dimensions of the frame
+        height, width = frame1.shape[:2]
+        
+        # Define the coordinates for the square in the center
+        center_x, center_y = width // 2, height // 2
+        roi_x1, roi_y1 = center_x - 50, center_y - 300
+        roi_x2, roi_y2 = center_x + 50, center_y + 300
+        
+        while cap.isOpened():
+            if cv2.waitKey(10) == 32:  # 32 is the ASCII code for the space bar
+                print("Skipping motion detection due to space bar press.")
                 ret, frame = cap.read()
                 image_path = 'captured_image.jpg'
+                print("Picture taken.")
                 cv2.imwrite(image_path, frame)
                 cap.release()
                 return image_path
+            
+            diff = cv2.absdiff(frame1, frame2)
+            gray = cv2.cvtColor(diff, cv2.COLOR_BGR2GRAY)
+            blur = cv2.GaussianBlur(gray, (21, 21), 0)
+            _, thresh = cv2.threshold(blur, 25, 255, cv2.THRESH_BINARY)
+            dilated = cv2.dilate(thresh, None, iterations=2)
+            contours, _ = cv2.findContours(dilated, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+            
+            for contour in contours:
+                if cv2.contourArea(contour) < 2000:  # Increase the minimum contour area to reduce sensitivity
+                    continue
+                
+                x, y, w, h = cv2.boundingRect(contour)
+                
+                # Check if the contour is within the defined ROI
+                if roi_x1 <= x <= roi_x2 and roi_y1 <= y <= roi_y2:
+                    cv2.rectangle(frame1, (x, y), (x + w, y + h), (0, 255, 0), 2)
+                    print("Motion detected! Waiting for 1.2 seconds for card to fall down...")
+                    cv2.waitKey(1200)
+                    ret, frame = cap.read()
+                    image_path = 'captured_image.jpg'
+                    cv2.imwrite(image_path, frame)
+                    print("Motion detected picture taken.")
+                    cap.release()
+                    return image_path
+            
+            frame1 = frame2
+            ret, frame2 = cap.read()
+            cv2.imshow("Preview", frame1)
+            
+            if cv2.waitKey(10) == 27:  # 27 is the ASCII code for the ESC key
+                break
         
-        frame1 = frame2
-        ret, frame2 = cap.read()
-        cv2.imshow("Motion Detection", frame1)
+        cap.release()
+        cv2.destroyAllWindows()
+        return None
+    else:
+        print("3 second preview before trying again.")
+        start_time = time.time()
+        while time.time() - start_time < 3:
+            ret, frame = cap.read()
+            cv2.imshow("Preview", frame)
+            if cv2.waitKey(10) == 27:  # 27 is the ASCII code for the ESC key
+                break
         
-        if cv2.waitKey(10) == 27:
-            break
-    
-    cap.release()
-    cv2.destroyAllWindows()
-    return None
+        ret, frame = cap.read()
+        image_path = 'captured_image.jpg'
+        cv2.imwrite(image_path, frame)
+        print("Picture taken.")
+        cap.release()
+        cv2.destroyAllWindows()
+        return image_path
 
+# Function to append data to an Excel file
+def append_to_excel(file_name, data):
+    if os.path.exists(file_name):
+        workbook = openpyxl.load_workbook(file_name)
+        sheet = workbook.active
+    else:
+        workbook = openpyxl.Workbook()
+        sheet = workbook.active
+        # Write the header row
+        sheet.append(["Category", "Types or Trainer Type", "Name", "Set Code", "Card Number"])
+
+    # Append the data row
+    sheet.append(data)
+    workbook.save(file_name)
 
 # Main function
 def main():
-    for _ in range(10):
+    skip_motion_detection = False
+    for _ in range(100):
         print("Waiting for new card")
-        image_path = detect_motion_and_capture()
+        image_path = detect_motion_and_capture(skip_motion_detection=skip_motion_detection)
         if image_path:
             cropped_image_path = find_and_crop_card(image_path)
             extracted_text, matches_combinations, card_number, card_id, setId = extract_text_from_image(cropped_image_path)
+            
             if not card_id or not matches_combinations:
                 print(f"Skipping image {image_path}: No card ID or no occurrences of the three-letter uppercase combinations found.")
+                skip_motion_detection = True
                 continue
+            
             if not setId:
                 print(f"Skipping image {image_path}: No set ID found.")
+                skip_motion_detection = True
                 continue
+            
             print("Extracted Text:", extracted_text)
             print("Matches:", matches_combinations)
             print("Card Number:", card_number)
             print("Card ID:", card_id)
             print("Set ID:", setId)
+            
             name, category, id, image_url, types_or_trainer_type = query_tcgdex_api(setId, card_id)
             print("Name:", name)
             print("Category:", category)
             print("ID:", id)
             print("Image URL:", image_url)
+            
             if category == 'Pokemon':
                 print("Type:", types_or_trainer_type)
             elif category == 'Trainer':
                 print("Trainer Type:", types_or_trainer_type)
+            
             setCode = matches_combinations[-1] if matches_combinations else None
             csv_data = [category, name, card_id, setCode, card_number, types_or_trainer_type, image_url]
             
             # Uncomment if you want CSV data
             # append_to_csv('output/my_cards.csv', csv_data)
+            
             json_data = {
                 "category": category,
                 "name": name,
@@ -222,8 +276,16 @@ def main():
                 "tcgDexSet": setId
             }
             append_to_json('output/my_cards.json', json_data)
+            
+            # Append to Excel file
+            excel_data = [category, types_or_trainer_type, name, setCode, card_number]
+            append_to_excel('output/my_cards.xlsx', excel_data)
+            
+            # Reset skip_motion_detection for the next iteration
+            skip_motion_detection = False
         else:
             break
 
 if __name__ == "__main__":
     main()
+

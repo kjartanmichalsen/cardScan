@@ -1,0 +1,3892 @@
+[
+    {
+        "category": "Pokemon",
+        "name": "Paldean Wooper",
+        "card_id": "126",
+        "set_code": "OBF",
+        "card_number": "126/197",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/126",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bisharp",
+        "card_id": "133",
+        "set_code": "SVI",
+        "card_number": "133/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/133",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Muk",
+        "card_id": "127",
+        "set_code": "SVI",
+        "card_number": "127/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/127",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Koffing",
+        "card_id": "091",
+        "set_code": "JTG",
+        "card_number": "091/159",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/091",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Weezing",
+        "card_id": "092",
+        "set_code": "JTG",
+        "card_number": "092/159",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/092",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Paldean Wooper",
+        "card_id": "093",
+        "set_code": "JTG",
+        "card_number": "093/159",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/093",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Roaring Moon",
+        "card_id": "109",
+        "set_code": "TEF",
+        "card_number": "109/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/109",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "027",
+        "set_code": "SFA",
+        "card_number": "027/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/027",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morpeko",
+        "card_id": "121",
+        "set_code": "PAR",
+        "card_number": "121/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/121",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "027",
+        "set_code": "SFA",
+        "card_number": "027/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/027",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Roaring Moon",
+        "card_id": "109",
+        "set_code": "TEF",
+        "card_number": "109/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/109",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morpeko",
+        "card_id": "121",
+        "set_code": "PAR",
+        "card_number": "121/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/121",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morpeko",
+        "card_id": "121",
+        "set_code": "PAR",
+        "card_number": "121/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/121",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Impidimp",
+        "card_id": "094",
+        "set_code": "SCR",
+        "card_number": "094/142",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/094",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Impidimp",
+        "card_id": "094",
+        "set_code": "SCR",
+        "card_number": "094/142",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/094",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morgrem",
+        "card_id": "095",
+        "set_code": "SCR",
+        "card_number": "095/142",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/095",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zorua",
+        "card_id": "031",
+        "set_code": "SFA",
+        "card_number": "031/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/031",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Absol",
+        "card_id": "030",
+        "set_code": "SFA",
+        "card_number": "030/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/030",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Absol",
+        "card_id": "030",
+        "set_code": "SFA",
+        "card_number": "030/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/030",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Impidimp",
+        "card_id": "094",
+        "set_code": "SCR",
+        "card_number": "094/142",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/094",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "027",
+        "set_code": "SFA",
+        "card_number": "027/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/027",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Golbat",
+        "card_id": "028",
+        "set_code": "SFA",
+        "card_number": "028/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/028",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Muk",
+        "card_id": "127",
+        "set_code": "SVI",
+        "card_number": "127/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/127",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Kingambit",
+        "card_id": "134",
+        "set_code": "SVI",
+        "card_number": "134/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/134",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Haunter",
+        "card_id": "103",
+        "set_code": "TEF",
+        "card_number": "103/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/103",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Trubbish",
+        "card_id": "116",
+        "set_code": "PAR",
+        "card_number": "116/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/116",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Arbok",
+        "card_id": "101",
+        "set_code": "TEF",
+        "card_number": "101/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/101",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Mightyena",
+        "card_id": "114",
+        "set_code": "TWM",
+        "card_number": "114/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/114",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Paldean Wooper",
+        "card_id": "058",
+        "set_code": "PAF",
+        "card_number": "058/091",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/058",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "110",
+        "set_code": "PAR",
+        "card_number": "110/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/110",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Crobat",
+        "card_id": "112",
+        "set_code": "PAR",
+        "card_number": "112/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/112",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Golbat",
+        "card_id": "111",
+        "set_code": "PAR",
+        "card_number": "111/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/111",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Liepard",
+        "card_id": "115",
+        "set_code": "PAR",
+        "card_number": "115/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/115",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "110",
+        "set_code": "PAR",
+        "card_number": "110/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/110",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Liepard",
+        "card_id": "115",
+        "set_code": "PAR",
+        "card_number": "115/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/115",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Liepard",
+        "card_id": "115",
+        "set_code": "PAR",
+        "card_number": "115/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/115",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Liepard",
+        "card_id": "115",
+        "set_code": "PAR",
+        "card_number": "115/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/115",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Paldean Wooper",
+        "card_id": "128",
+        "set_code": "PAL",
+        "card_number": "128/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/128",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Toxel",
+        "card_id": "071",
+        "set_code": "OBF",
+        "card_number": "071/197",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/071",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Toxel",
+        "card_id": "069",
+        "set_code": "PAR",
+        "card_number": "069/182",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/069",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Kilowattrel",
+        "card_id": "076",
+        "set_code": "TWM",
+        "card_number": "076/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/076",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "018",
+        "set_code": "PAF",
+        "card_number": "018/091",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/018",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Toxtricity",
+        "card_id": "072",
+        "set_code": "SVI",
+        "card_number": "072/198",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/072",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "051",
+        "set_code": "TEF",
+        "card_number": "051/162",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/051",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bellibolt",
+        "card_id": "074",
+        "set_code": "TWM",
+        "card_number": "074/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/074",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Kilowattrel",
+        "card_id": "076",
+        "set_code": "TWM",
+        "card_number": "076/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/076",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Wattrel",
+        "card_id": "075",
+        "set_code": "TWM",
+        "card_number": "075/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/075",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bellibolt",
+        "card_id": "074",
+        "set_code": "TWM",
+        "card_number": "074/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/074",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Raichu",
+        "card_id": "019",
+        "set_code": "PAF",
+        "card_number": "019/091",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/019",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bellibolt",
+        "card_id": "074",
+        "set_code": "TWM",
+        "card_number": "074/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/074",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "051",
+        "set_code": "TEF",
+        "card_number": "051/162",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/051",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "062",
+        "set_code": "PAL",
+        "card_number": "062/193",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/062",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Toxel",
+        "card_id": "071",
+        "set_code": "OBF",
+        "card_number": "071/197",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/071",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "062",
+        "set_code": "PAL",
+        "card_number": "062/193",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/062",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Kilowattrel",
+        "card_id": "022",
+        "set_code": "PAF",
+        "card_number": "022/091",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/022",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Joltik",
+        "card_id": "064",
+        "set_code": "PAR",
+        "card_number": "064/182",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/064",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Joltik",
+        "card_id": "064",
+        "set_code": "PAR",
+        "card_number": "064/182",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/064",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bellibolt",
+        "card_id": "074",
+        "set_code": "TWM",
+        "card_number": "074/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/074",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Kilowattrel",
+        "card_id": "022",
+        "set_code": "PAF",
+        "card_number": "022/091",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/022",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Kilowattrel",
+        "card_id": "022",
+        "set_code": "PAF",
+        "card_number": "022/091",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/022",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "018",
+        "set_code": "PAF",
+        "card_number": "018/091",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/018",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "018",
+        "set_code": "PAF",
+        "card_number": "018/091",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/018",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "051",
+        "set_code": "TEF",
+        "card_number": "051/162",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/051",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pikachu",
+        "card_id": "051",
+        "set_code": "TEF",
+        "card_number": "051/162",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/051",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bellibolt",
+        "card_id": "074",
+        "set_code": "TWM",
+        "card_number": "074/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/074",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bellibolt",
+        "card_id": "074",
+        "set_code": "TWM",
+        "card_number": "074/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/074",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bellibolt",
+        "card_id": "074",
+        "set_code": "TWM",
+        "card_number": "074/167",
+        "types_or_trainer_type": "Lightning",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/074",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rockruff",
+        "card_id": "116",
+        "set_code": "OBF",
+        "card_number": "116/197",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/116",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rockruff",
+        "card_id": "116",
+        "set_code": "OBF",
+        "card_number": "116/197",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/116",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rockruff",
+        "card_id": "116",
+        "set_code": "OBF",
+        "card_number": "116/197",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/116",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Naclstack",
+        "card_id": "122",
+        "set_code": "PAL",
+        "card_number": "122/193",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/122",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Naclstack",
+        "card_id": "103",
+        "set_code": "PAR",
+        "card_number": "103/182",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/103",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Silicobra",
+        "card_id": "119",
+        "set_code": "SVI",
+        "card_number": "119/198",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/119",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Riolu",
+        "card_id": "113",
+        "set_code": "SVI",
+        "card_number": "113/198",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/113",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Riolu",
+        "card_id": "113",
+        "set_code": "SVI",
+        "card_number": "113/198",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/113",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dugtrio",
+        "card_id": "104",
+        "set_code": "OBF",
+        "card_number": "104/197",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/104",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Toedscruel",
+        "card_id": "119",
+        "set_code": "OBF",
+        "card_number": "119/197",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/119",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Toedscruel",
+        "card_id": "119",
+        "set_code": "OBF",
+        "card_number": "119/197",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/119",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Okidogi",
+        "card_id": "111",
+        "set_code": "TWM",
+        "card_number": "111/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/111",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Trapinch",
+        "card_id": "104",
+        "set_code": "SSP",
+        "card_number": "104/191",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08/104",
+        "tcgDexSet": "sv08"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Groudon",
+        "card_id": "093",
+        "set_code": "PAR",
+        "card_number": "093/182",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/093",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Garganacl",
+        "card_id": "104",
+        "set_code": "PAR",
+        "card_number": "104/182",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/104",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Garganacl",
+        "card_id": "104",
+        "set_code": "PAR",
+        "card_number": "104/182",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/104",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bloodmoon Ursaluna",
+        "card_id": "025",
+        "set_code": "SFA",
+        "card_number": "025/064",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/025",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Great Tusk",
+        "card_id": "097",
+        "set_code": "TEF",
+        "card_number": "097/162",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/097",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rhyhorn",
+        "card_id": "074",
+        "set_code": "SCR",
+        "card_number": "074/142",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/074",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Cubone",
+        "card_id": "072",
+        "set_code": "SCR",
+        "card_number": "072/142",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/072",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Diancie",
+        "card_id": "086",
+        "set_code": "SCR",
+        "card_number": "086/142",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/086",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Okidogi",
+        "card_id": "111",
+        "set_code": "TWM",
+        "card_number": "111/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/111",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Nacli",
+        "card_id": "102",
+        "set_code": "PAR",
+        "card_number": "102/182",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/102",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Groudon",
+        "card_id": "093",
+        "set_code": "PAR",
+        "card_number": "093/182",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/093",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Probopass",
+        "card_id": "102",
+        "set_code": "TWM",
+        "card_number": "102/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/102",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Mienfoo",
+        "card_id": "083",
+        "set_code": "SCR",
+        "card_number": "083/142",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/083",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sandslash",
+        "card_id": "098",
+        "set_code": "TWM",
+        "card_number": "098/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/098",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Hisuian Growlithe",
+        "card_id": "099",
+        "set_code": "TWM",
+        "card_number": "099/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/099",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Riolu",
+        "card_id": "081",
+        "set_code": "SCR",
+        "card_number": "081/142",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/081",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Meditite",
+        "card_id": "082",
+        "set_code": "TEF",
+        "card_number": "082/162",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/082",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Mudbray",
+        "card_id": "091",
+        "set_code": "TEF",
+        "card_number": "091/162",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/091",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Okidogi",
+        "card_id": "111",
+        "set_code": "TWM",
+        "card_number": "111/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/111",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Okidogi",
+        "card_id": "111",
+        "set_code": "TWM",
+        "card_number": "111/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/111",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Golett",
+        "card_id": "087",
+        "set_code": "TEF",
+        "card_number": "087/162",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/087",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Great Tusk",
+        "card_id": "097",
+        "set_code": "TEF",
+        "card_number": "097/162",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/097",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Excadrill",
+        "card_id": "086",
+        "set_code": "TEF",
+        "card_number": "086/162",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/086",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sandslash",
+        "card_id": "098",
+        "set_code": "TWM",
+        "card_number": "098/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/098",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Meditite",
+        "card_id": "110",
+        "set_code": "SVI",
+        "card_number": "110/198",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/110",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Meditite",
+        "card_id": "110",
+        "set_code": "SVI",
+        "card_number": "110/198",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/110",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Lucario",
+        "card_id": "114",
+        "set_code": "SVI",
+        "card_number": "114/198",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/114",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Hisuian Arcanine",
+        "card_id": "100",
+        "set_code": "TWM",
+        "card_number": "100/167",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/100",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Mudsdale",
+        "card_id": "092",
+        "set_code": "TEF",
+        "card_number": "092/162",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/092",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Cubone",
+        "card_id": "076",
+        "set_code": "JTG",
+        "card_number": "076/159",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/076",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rockruff",
+        "card_id": "084",
+        "set_code": "JTG",
+        "card_number": "084/159",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/084",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Toedscruel",
+        "card_id": "089",
+        "set_code": "JTG",
+        "card_number": "089/159",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/089",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Gastrodon",
+        "card_id": "107",
+        "set_code": "SSP",
+        "card_number": "107/191",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08/107",
+        "tcgDexSet": "sv08"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Groudon",
+        "card_id": "093",
+        "set_code": "PAR",
+        "card_number": "093/182",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/093",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Revavroom",
+        "card_id": "142",
+        "set_code": "SVI",
+        "card_number": "142/198",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/142",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Varoom",
+        "card_id": "124",
+        "set_code": "TWM",
+        "card_number": "124/167",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/124",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Heatran",
+        "card_id": "123",
+        "set_code": "TWM",
+        "card_number": "123/167",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/123",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Heatran",
+        "card_id": "123",
+        "set_code": "TWM",
+        "card_number": "123/167",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/123",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Varoom",
+        "card_id": "124",
+        "set_code": "TWM",
+        "card_number": "124/167",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/124",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Meltan",
+        "card_id": "116",
+        "set_code": "TEF",
+        "card_number": "116/162",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/116",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Corviknight",
+        "card_id": "148",
+        "set_code": "PAL",
+        "card_number": "148/193",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/148",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "126",
+        "set_code": "PAR",
+        "card_number": "126/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/126",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Orthworm",
+        "card_id": "138",
+        "set_code": "PAR",
+        "card_number": "138/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/138",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "126",
+        "set_code": "PAR",
+        "card_number": "126/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/126",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Revavroom",
+        "card_id": "142",
+        "set_code": "SVI",
+        "card_number": "142/198",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/142",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Revavroom",
+        "card_id": "142",
+        "set_code": "SVI",
+        "card_number": "142/198",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/142",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Meltan",
+        "card_id": "116",
+        "set_code": "TEF",
+        "card_number": "116/162",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/116",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Meltan",
+        "card_id": "116",
+        "set_code": "TEF",
+        "card_number": "116/162",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/116",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Mawile",
+        "card_id": "112",
+        "set_code": "TEF",
+        "card_number": "112/162",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/112",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Varoom",
+        "card_id": "124",
+        "set_code": "TWM",
+        "card_number": "124/167",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/124",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Orthworm",
+        "card_id": "138",
+        "set_code": "PAR",
+        "card_number": "138/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/138",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "126",
+        "set_code": "PAR",
+        "card_number": "126/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/126",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ferrothorn",
+        "card_id": "128",
+        "set_code": "PAR",
+        "card_number": "128/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/128",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ferrothorn",
+        "card_id": "128",
+        "set_code": "PAR",
+        "card_number": "128/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/128",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bronzong",
+        "card_id": "145",
+        "set_code": "OBF",
+        "card_number": "145/197",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/145",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Varoom",
+        "card_id": "064",
+        "set_code": "PAF",
+        "card_number": "064/091",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/064",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Doublade",
+        "card_id": "133",
+        "set_code": "PAR",
+        "card_number": "133/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/133",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Doublade",
+        "card_id": "133",
+        "set_code": "PAR",
+        "card_number": "133/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/133",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Togedemaru",
+        "card_id": "151",
+        "set_code": "OBF",
+        "card_number": "151/197",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/151",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Togedemaru",
+        "card_id": "151",
+        "set_code": "OBF",
+        "card_number": "151/197",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/151",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Togedemaru",
+        "card_id": "151",
+        "set_code": "OBF",
+        "card_number": "151/197",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/151",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Corviknight",
+        "card_id": "148",
+        "set_code": "PAL",
+        "card_number": "148/193",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/148",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Corviknight",
+        "card_id": "148",
+        "set_code": "PAL",
+        "card_number": "148/193",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/148",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Forretress",
+        "card_id": "139",
+        "set_code": "SVI",
+        "card_number": "139/198",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/139",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Forretress",
+        "card_id": "139",
+        "set_code": "SVI",
+        "card_number": "139/198",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/139",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Forretress",
+        "card_id": "139",
+        "set_code": "SVI",
+        "card_number": "139/198",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/139",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Cufant",
+        "card_id": "149",
+        "set_code": "PAL",
+        "card_number": "149/193",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/149",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klink",
+        "card_id": "099",
+        "set_code": "SCR",
+        "card_number": "099/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/099",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Revavroom",
+        "card_id": "109",
+        "set_code": "SCR",
+        "card_number": "109/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/109",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klinklang",
+        "card_id": "101",
+        "set_code": "SCR",
+        "card_number": "101/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/101",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klinklang",
+        "card_id": "101",
+        "set_code": "SCR",
+        "card_number": "101/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/101",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Revavroom",
+        "card_id": "109",
+        "set_code": "SCR",
+        "card_number": "109/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/109",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Revavroom",
+        "card_id": "109",
+        "set_code": "SCR",
+        "card_number": "109/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/109",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klang",
+        "card_id": "100",
+        "set_code": "SCR",
+        "card_number": "100/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/100",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klang",
+        "card_id": "100",
+        "set_code": "SCR",
+        "card_number": "100/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/100",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "098",
+        "set_code": "SCR",
+        "card_number": "098/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/098",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "098",
+        "set_code": "SCR",
+        "card_number": "098/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/098",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klinklang",
+        "card_id": "101",
+        "set_code": "SCR",
+        "card_number": "101/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/101",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Genesect",
+        "card_id": "040",
+        "set_code": "SFA",
+        "card_number": "040/064",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/040",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klink",
+        "card_id": "099",
+        "set_code": "SCR",
+        "card_number": "099/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/099",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klink",
+        "card_id": "099",
+        "set_code": "SCR",
+        "card_number": "099/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/099",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klink",
+        "card_id": "099",
+        "set_code": "SCR",
+        "card_number": "099/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/099",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klinklang",
+        "card_id": "101",
+        "set_code": "SCR",
+        "card_number": "101/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/101",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Klink",
+        "card_id": "099",
+        "set_code": "SCR",
+        "card_number": "099/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/099",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Genesect",
+        "card_id": "040",
+        "set_code": "SFA",
+        "card_number": "040/064",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/040",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Genesect",
+        "card_id": "040",
+        "set_code": "SFA",
+        "card_number": "040/064",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/040",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Varoom",
+        "card_id": "108",
+        "set_code": "SCR",
+        "card_number": "108/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/108",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "098",
+        "set_code": "SCR",
+        "card_number": "098/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/098",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "098",
+        "set_code": "SCR",
+        "card_number": "098/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/098",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Varoom",
+        "card_id": "108",
+        "set_code": "SCR",
+        "card_number": "108/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/108",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "098",
+        "set_code": "SCR",
+        "card_number": "098/142",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/098",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Cufant",
+        "card_id": "109",
+        "set_code": "JTG",
+        "card_number": "109/159",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/109",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "126",
+        "set_code": "PAR",
+        "card_number": "126/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/126",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Jirachi",
+        "card_id": "126",
+        "set_code": "PAR",
+        "card_number": "126/182",
+        "types_or_trainer_type": "Metal",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/126",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Solrock",
+        "card_id": "093",
+        "set_code": "OBF",
+        "card_number": "093/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/093",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Solrock",
+        "card_id": "093",
+        "set_code": "OBF",
+        "card_number": "093/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/093",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tinkatuff",
+        "card_id": "084",
+        "set_code": "PAR",
+        "card_number": "084/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/084",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Lunatone",
+        "card_id": "092",
+        "set_code": "OBF",
+        "card_number": "092/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/092",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifloon",
+        "card_id": "060",
+        "set_code": "SCR",
+        "card_number": "060/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/060",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifloon",
+        "card_id": "060",
+        "set_code": "SCR",
+        "card_number": "060/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/060",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flutter Mane",
+        "card_id": "078",
+        "set_code": "TEF",
+        "card_number": "078/162",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/078",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Iron Boulder",
+        "card_id": "071",
+        "set_code": "SCR",
+        "card_number": "071/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/071",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Claydol",
+        "card_id": "095",
+        "set_code": "OBF",
+        "card_number": "095/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/095",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifblim",
+        "card_id": "061",
+        "set_code": "SCR",
+        "card_number": "061/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/061",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Iron Boulder",
+        "card_id": "071",
+        "set_code": "SCR",
+        "card_number": "071/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/071",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Claydol",
+        "card_id": "095",
+        "set_code": "OBF",
+        "card_number": "095/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/095",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Claydol",
+        "card_id": "095",
+        "set_code": "OBF",
+        "card_number": "095/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/095",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Claydol",
+        "card_id": "095",
+        "set_code": "OBF",
+        "card_number": "095/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/095",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Claydol",
+        "card_id": "095",
+        "set_code": "OBF",
+        "card_number": "095/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/095",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Grumpig",
+        "card_id": "091",
+        "set_code": "OBF",
+        "card_number": "091/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/091",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Spoink",
+        "card_id": "090",
+        "set_code": "OBF",
+        "card_number": "090/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/090",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Granbull",
+        "card_id": "088",
+        "set_code": "OBF",
+        "card_number": "088/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/088",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Claydol",
+        "card_id": "095",
+        "set_code": "OBF",
+        "card_number": "095/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/095",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bronzor",
+        "card_id": "068",
+        "set_code": "TEF",
+        "card_number": "068/162",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/068",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Abra",
+        "card_id": "063",
+        "set_code": "MEW",
+        "card_number": "063/165",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03.5/063",
+        "tcgDexSet": "sv03.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Abra",
+        "card_id": "063",
+        "set_code": "MEW",
+        "card_number": "063/165",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03.5/063",
+        "tcgDexSet": "sv03.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Houndstone",
+        "card_id": "043",
+        "set_code": "PAF",
+        "card_number": "043/091",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/043",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Abra",
+        "card_id": "080",
+        "set_code": "TWM",
+        "card_number": "080/167",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/080",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Abra",
+        "card_id": "080",
+        "set_code": "TWM",
+        "card_number": "080/167",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/080",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Lunatone",
+        "card_id": "092",
+        "set_code": "OBF",
+        "card_number": "092/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/092",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Vulpix",
+        "card_id": "028",
+        "set_code": "OBF",
+        "card_number": "028/091",
+        "types_or_trainer_type": "Fire",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/028",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Kirlia",
+        "card_id": "028",
+        "set_code": "PAF",
+        "card_number": "028/091",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/028",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ralts",
+        "card_id": "027",
+        "set_code": "PAF",
+        "card_number": "027/091",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/027",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Farigiraf",
+        "card_id": "084",
+        "set_code": "TWM",
+        "card_number": "084/198",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/084",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ralts",
+        "card_id": "084",
+        "set_code": "SVI",
+        "card_number": "084/198",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/084",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ralts",
+        "card_id": "084",
+        "set_code": "SVI",
+        "card_number": "084/198",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/084",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "102",
+        "set_code": "SVI",
+        "card_number": "102/198",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/102",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flutter Mane",
+        "card_id": "078",
+        "set_code": "TEF",
+        "card_number": "078/162",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/078",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Slowking",
+        "card_id": "058",
+        "set_code": "SCR",
+        "card_number": "058/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/058",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Milcery",
+        "card_id": "064",
+        "set_code": "SCR",
+        "card_number": "064/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/064",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifloon",
+        "card_id": "060",
+        "set_code": "SCR",
+        "card_number": "060/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/060",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Swirlix",
+        "card_id": "089",
+        "set_code": "TWM",
+        "card_number": "089/167",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/089",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flab\u00e9b\u00e9",
+        "card_id": "086",
+        "set_code": "TWM",
+        "card_number": "086/167",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/086",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Floette",
+        "card_id": "087",
+        "set_code": "TWM",
+        "card_number": "087/167",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/087",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Florges",
+        "card_id": "088",
+        "set_code": "TWM",
+        "card_number": "088/167",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/088",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Florges",
+        "card_id": "088",
+        "set_code": "TWM",
+        "card_number": "088/167",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/088",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "080",
+        "set_code": "PAR",
+        "card_number": "080/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/080",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "080",
+        "set_code": "PAR",
+        "card_number": "080/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/080",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "101",
+        "set_code": "SVI",
+        "card_number": "101/198",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/101",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "041",
+        "set_code": "PAF",
+        "card_number": "041/091",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/041",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "041",
+        "set_code": "PAF",
+        "card_number": "041/091",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/041",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "079",
+        "set_code": "PAR",
+        "card_number": "079/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/079",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "080",
+        "set_code": "PAR",
+        "card_number": "080/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/080",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Fidough",
+        "card_id": "066",
+        "set_code": "SCR",
+        "card_number": "066/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/066",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Greavard",
+        "card_id": "070",
+        "set_code": "SCR",
+        "card_number": "070/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/070",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Flittle",
+        "card_id": "068",
+        "set_code": "SCR",
+        "card_number": "068/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/068",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifloon",
+        "card_id": "060",
+        "set_code": "SCR",
+        "card_number": "060/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/060",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Mewtwo",
+        "card_id": "059",
+        "set_code": "SCR",
+        "card_number": "059/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/059",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Natu",
+        "card_id": "071",
+        "set_code": "PAR",
+        "card_number": "071/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/071",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Fidough",
+        "card_id": "066",
+        "set_code": "SCR",
+        "card_number": "066/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/066",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Greavard",
+        "card_id": "070",
+        "set_code": "SCR",
+        "card_number": "070/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/070",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Xatu",
+        "card_id": "072",
+        "set_code": "PAR",
+        "card_number": "072/182",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/072",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sylveon",
+        "card_id": "022",
+        "set_code": "SFA",
+        "card_number": "022/064",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/022",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifloon",
+        "card_id": "060",
+        "set_code": "SCR",
+        "card_number": "060/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/060",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifloon",
+        "card_id": "060",
+        "set_code": "SCR",
+        "card_number": "060/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/060",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifblim",
+        "card_id": "061",
+        "set_code": "SCR",
+        "card_number": "061/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/061",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drifloon",
+        "card_id": "060",
+        "set_code": "SCR",
+        "card_number": "060/142",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/060",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Abra",
+        "card_id": "080",
+        "set_code": "TWM",
+        "card_number": "080/167",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/080",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Spewpa",
+        "card_id": "009",
+        "set_code": "SVI",
+        "card_number": "009/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/009",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Vivillon",
+        "card_id": "010",
+        "set_code": "SVI",
+        "card_number": "010/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/010",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dhelmise",
+        "card_id": "019",
+        "set_code": "TEF",
+        "card_number": "019/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/019",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Deerling",
+        "card_id": "016",
+        "set_code": "TEF",
+        "card_number": "016/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/016",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Deerling",
+        "card_id": "016",
+        "set_code": "TEF",
+        "card_number": "016/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/016",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Nymble",
+        "card_id": "020",
+        "set_code": "PAL",
+        "card_number": "020/193",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/020",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Nymble",
+        "card_id": "020",
+        "set_code": "PAL",
+        "card_number": "020/193",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/020",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Nymble",
+        "card_id": "020",
+        "set_code": "PAL",
+        "card_number": "020/193",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/020",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Lokix",
+        "card_id": "021",
+        "set_code": "PAL",
+        "card_number": "021/193",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/021",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Lokix",
+        "card_id": "021",
+        "set_code": "PAL",
+        "card_number": "021/193",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/021",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sprigatito",
+        "card_id": "013",
+        "set_code": "PAL",
+        "card_number": "013/193",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/013",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Floragato",
+        "card_id": "014",
+        "set_code": "PAL",
+        "card_number": "014/193",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/014",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sprigatito",
+        "card_id": "013",
+        "set_code": "SVI",
+        "card_number": "013/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/013",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Floragato",
+        "card_id": "014",
+        "set_code": "SVI",
+        "card_number": "014/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/014",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sprigatito",
+        "card_id": "013",
+        "set_code": "SVI",
+        "card_number": "013/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/013",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Floragato",
+        "card_id": "014",
+        "set_code": "SVI",
+        "card_number": "014/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/014",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Vivillon",
+        "card_id": "010",
+        "set_code": "SVI",
+        "card_number": "010/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/010",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Illumise",
+        "card_id": "010",
+        "set_code": "TWM",
+        "card_number": "010/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/010",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Illumise",
+        "card_id": "010",
+        "set_code": "TWM",
+        "card_number": "010/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/010",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Volbeat",
+        "card_id": "009",
+        "set_code": "TWM",
+        "card_number": "009/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/009",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Gogoat",
+        "card_id": "012",
+        "set_code": "SVI",
+        "card_number": "012/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/012",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tarountula",
+        "card_id": "017",
+        "set_code": "SVI",
+        "card_number": "017/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/017",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sinistcha",
+        "card_id": "022",
+        "set_code": "TWM",
+        "card_number": "022/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/022",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Heracross",
+        "card_id": "008",
+        "set_code": "TWM",
+        "card_number": "008/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/008",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Heracross",
+        "card_id": "008",
+        "set_code": "TWM",
+        "card_number": "008/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/008",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": null,
+        "name": null,
+        "card_id": "861",
+        "set_code": "TWM",
+        "card_number": "861/600",
+        "types_or_trainer_type": null,
+        "image_url": null,
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Spewpa",
+        "card_id": "009",
+        "set_code": "SVI",
+        "card_number": "009/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/009",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Smoliv",
+        "card_id": "021",
+        "set_code": "SVI",
+        "card_number": "021/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/021",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Vivillon",
+        "card_id": "010",
+        "set_code": "SVI",
+        "card_number": "010/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/010",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Spewpa",
+        "card_id": "009",
+        "set_code": "SVI",
+        "card_number": "009/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/009",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Vivillon",
+        "card_id": "010",
+        "set_code": "SVI",
+        "card_number": "010/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/010",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Vivillon",
+        "card_id": "010",
+        "set_code": "SVI",
+        "card_number": "010/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/010",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Spewpa",
+        "card_id": "009",
+        "set_code": "SVI",
+        "card_number": "009/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/009",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Spewpa",
+        "card_id": "009",
+        "set_code": "SVI",
+        "card_number": "009/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/009",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Vivillon",
+        "card_id": "010",
+        "set_code": "SVI",
+        "card_number": "010/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/010",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Scatterbug",
+        "card_id": "008",
+        "set_code": "SVI",
+        "card_number": "008/198",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/008",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sprigatito",
+        "card_id": "012",
+        "set_code": "PAL",
+        "card_number": "012/193",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/012",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ledian",
+        "card_id": "003",
+        "set_code": "SCR",
+        "card_number": "003/142",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/003",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ledian",
+        "card_id": "003",
+        "set_code": "SCR",
+        "card_number": "003/142",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/003",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ledyba",
+        "card_id": "002",
+        "set_code": "SCR",
+        "card_number": "002/142",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/002",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ledian",
+        "card_id": "003",
+        "set_code": "SCR",
+        "card_number": "003/142",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/003",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ledyba",
+        "card_id": "002",
+        "set_code": "SCR",
+        "card_number": "002/142",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/002",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Ledyba",
+        "card_id": "002",
+        "set_code": "SCR",
+        "card_number": "002/142",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/002",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rellor",
+        "card_id": "023",
+        "set_code": "TEF",
+        "card_number": "023/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/023",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rellor",
+        "card_id": "023",
+        "set_code": "TEF",
+        "card_number": "023/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/023",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rellor",
+        "card_id": "023",
+        "set_code": "TEF",
+        "card_number": "023/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/023",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rellor",
+        "card_id": "023",
+        "set_code": "TEF",
+        "card_number": "023/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/023",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Shelmet",
+        "card_id": "012",
+        "set_code": "JTG",
+        "card_number": "012/159",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/012",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Arboliva",
+        "card_id": "021",
+        "set_code": "OBF",
+        "card_number": "021/197",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/021",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Oddish",
+        "card_id": "001",
+        "set_code": "OBF",
+        "card_number": "001/197",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/001",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bisharp",
+        "card_id": "133",
+        "set_code": "SVI",
+        "card_number": "133/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/133",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bisharp",
+        "card_id": "133",
+        "set_code": "SVI",
+        "card_number": "133/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/133",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morpeko",
+        "card_id": "121",
+        "set_code": "PAR",
+        "card_number": "121/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/121",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "027",
+        "set_code": "SFA",
+        "card_number": "027/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/027",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morpeko",
+        "card_id": "121",
+        "set_code": "PAR",
+        "card_number": "121/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/121",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morpeko",
+        "card_id": "121",
+        "set_code": "PAR",
+        "card_number": "121/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/121",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Roaring Moon",
+        "card_id": "109",
+        "set_code": "TEF",
+        "card_number": "109/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/109",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Weezing",
+        "card_id": "092",
+        "set_code": "JTG",
+        "card_number": "092/159",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/092",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Koffing",
+        "card_id": "091",
+        "set_code": "JTG",
+        "card_number": "091/159",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/091",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Muk",
+        "card_id": "127",
+        "set_code": "SVI",
+        "card_number": "127/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/127",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Muk",
+        "card_id": "127",
+        "set_code": "SVI",
+        "card_number": "127/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/127",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Impidimp",
+        "card_id": "094",
+        "set_code": "SCR",
+        "card_number": "094/142",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/094",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Absol",
+        "card_id": "030",
+        "set_code": "SFA",
+        "card_number": "030/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/030",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zorua",
+        "card_id": "031",
+        "set_code": "SFA",
+        "card_number": "031/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/031",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morgrem",
+        "card_id": "095",
+        "set_code": "SCR",
+        "card_number": "095/142",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/095",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Impidimp",
+        "card_id": "094",
+        "set_code": "SCR",
+        "card_number": "094/142",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/094",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morpeko",
+        "card_id": "121",
+        "set_code": "PAR",
+        "card_number": "121/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/121",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Morpeko",
+        "card_id": "121",
+        "set_code": "PAR",
+        "card_number": "121/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/121",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Roaring Moon",
+        "card_id": "109",
+        "set_code": "TEF",
+        "card_number": "109/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/109",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Roaring Moon",
+        "card_id": "109",
+        "set_code": "TEF",
+        "card_number": "109/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/109",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "027",
+        "set_code": "SFA",
+        "card_number": "027/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/027",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Paldean Wooper",
+        "card_id": "128",
+        "set_code": "PAL",
+        "card_number": "128/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/128",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Liepard",
+        "card_id": "115",
+        "set_code": "PAR",
+        "card_number": "115/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/115",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Liepard",
+        "card_id": "115",
+        "set_code": "PAR",
+        "card_number": "115/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/115",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "110",
+        "set_code": "PAR",
+        "card_number": "110/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/110",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Liepard",
+        "card_id": "115",
+        "set_code": "PAR",
+        "card_number": "115/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/115",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Golbat",
+        "card_id": "111",
+        "set_code": "PAR",
+        "card_number": "111/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/111",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Crobat",
+        "card_id": "112",
+        "set_code": "PAR",
+        "card_number": "112/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/112",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Crobat",
+        "card_id": "112",
+        "set_code": "PAR",
+        "card_number": "112/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/112",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Zubat",
+        "card_id": "110",
+        "set_code": "PAR",
+        "card_number": "110/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/110",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Cornerstone Mask Ogerpon ex",
+        "card_id": "058",
+        "set_code": "PRE",
+        "card_number": "058/091",
+        "types_or_trainer_type": "Fighting",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/058",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Paldean Wooper",
+        "card_id": "058",
+        "set_code": "PAF",
+        "card_number": "058/091",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/058",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Paldean Wooper",
+        "card_id": "058",
+        "set_code": "PAF",
+        "card_number": "058/091",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/058",
+        "tcgDexSet": "sv04.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Gastly",
+        "card_id": "102",
+        "set_code": "TEF",
+        "card_number": "102/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/102",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Mightyena",
+        "card_id": "114",
+        "set_code": "TWM",
+        "card_number": "114/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/114",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Arbok",
+        "card_id": "101",
+        "set_code": "TEF",
+        "card_number": "101/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/101",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brute Bonnet",
+        "card_id": "118",
+        "set_code": "TWM",
+        "card_number": "118/167",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/118",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Murkrow",
+        "card_id": "131",
+        "set_code": "PAL",
+        "card_number": "131/193",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/131",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Trubbish",
+        "card_id": "116",
+        "set_code": "PAR",
+        "card_number": "116/182",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/116",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Haunter",
+        "card_id": "103",
+        "set_code": "TEF",
+        "card_number": "103/162",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/103",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Muk",
+        "card_id": "127",
+        "set_code": "SVI",
+        "card_number": "127/198",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/127",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Golbat",
+        "card_id": "028",
+        "set_code": "SFA",
+        "card_number": "028/064",
+        "types_or_trainer_type": "Darkness",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/028",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Togepi",
+        "card_id": "083",
+        "set_code": "OBF",
+        "card_number": "083/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/083",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Togepi",
+        "card_id": "083",
+        "set_code": "OBF",
+        "card_number": "083/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/083",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Togepi",
+        "card_id": "083",
+        "set_code": "OBF",
+        "card_number": "083/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/083",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Togepi",
+        "card_id": "083",
+        "set_code": "OBF",
+        "card_number": "083/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/083",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Solrock",
+        "card_id": "093",
+        "set_code": "OBF",
+        "card_number": "093/197",
+        "types_or_trainer_type": "Psychic",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/093",
+        "tcgDexSet": "sv03"
+    }
+]
