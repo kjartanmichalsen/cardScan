@@ -8,11 +8,11 @@ I use this box from Clas Ohlson https://www.clasohlson.com/no/SmartStore-innsats
 
 And a Trust 23637 Webcam on my M3 Mac
 
-*Setup*
+# Setup
 Uses python3 and pip3
-# setup env: python3 -m venv <path>/cardScan
-# env: source <path>/cardScan/bin/activate
-# pip3 install azure-ai-vision-imageanalysis  
-# pip3 install opencv-python
-# export VISION_KEY=<your_key>
-# export VISION_ENDPOINT=<your endpoint>
+Setup env: python3 -m venv <path>/cardScan
+Select env to use: source <path>/cardScan/bin/activate
+pip3 install azure-ai-vision-imageanalysis  
+pip3 install opencv-python
+export VISION_KEY=<your_key>
+export VISION_ENDPOINT=<your endpoint>
