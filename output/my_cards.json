@@ -3888,5 +3888,1905 @@
         "types_or_trainer_type": "Psychic",
         "image_url": "https://assets.tcgdex.net/en/sv/sv03/093",
         "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Teal Mask Ogerpon",
+        "card_id": "024",
+        "set_code": "TWM",
+        "card_number": "024/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/024",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Teal Mask Ogerpon",
+        "card_id": "024",
+        "set_code": "TWM",
+        "card_number": "024/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/024",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Mow Rotom",
+        "card_id": "008",
+        "set_code": "SCR",
+        "card_number": "008/142",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/008",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Applin",
+        "card_id": "012",
+        "set_code": "SCR",
+        "card_number": "012/142",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/012",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Applin",
+        "card_id": "009",
+        "set_code": "PRE",
+        "card_number": "009/131",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/009",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Applin",
+        "card_id": "009",
+        "set_code": "PRE",
+        "card_number": "009/131",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/009",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Poltchageist",
+        "card_id": "021",
+        "set_code": "TWM",
+        "card_number": "021/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/021",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bramblin",
+        "card_id": "020",
+        "set_code": "TEF",
+        "card_number": "020/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/020",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bramblin",
+        "card_id": "020",
+        "set_code": "TEF",
+        "card_number": "020/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/020",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bounsweet",
+        "card_id": "008",
+        "set_code": "PAR",
+        "card_number": "008/182",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/008",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bounsweet",
+        "card_id": "008",
+        "set_code": "PAR",
+        "card_number": "008/182",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/008",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Bounsweet",
+        "card_id": "016",
+        "set_code": "OBF",
+        "card_number": "016/197",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/016",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Grookey",
+        "card_id": "014",
+        "set_code": "TWM",
+        "card_number": "014/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/014",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rowlet",
+        "card_id": "003",
+        "set_code": "SFA",
+        "card_number": "003/064",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/003",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pineco",
+        "card_id": "002",
+        "set_code": "TEF",
+        "card_number": "002/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/002",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pineco",
+        "card_id": "002",
+        "set_code": "TEF",
+        "card_number": "002/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/002",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Pineco",
+        "card_id": "002",
+        "set_code": "TEF",
+        "card_number": "002/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/002",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Galvantula",
+        "card_id": "002",
+        "set_code": "SFA",
+        "card_number": "002/064",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/002",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Rabsca",
+        "card_id": "024",
+        "set_code": "TEF",
+        "card_number": "024/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/024",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Brambleghast",
+        "card_id": "021",
+        "set_code": "TEF",
+        "card_number": "021/162",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/021",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dipplin",
+        "card_id": "018",
+        "set_code": "TWM",
+        "card_number": "018/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/018",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dipplin",
+        "card_id": "010",
+        "set_code": "PRE",
+        "card_number": "010/131",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/010",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dipplin",
+        "card_id": "010",
+        "set_code": "PRE",
+        "card_number": "010/131",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/010",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Sinistcha",
+        "card_id": "022",
+        "set_code": "TWM",
+        "card_number": "022/167",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/022",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dartrix",
+        "card_id": "004",
+        "set_code": "SFA",
+        "card_number": "004/064",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/004",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dartrix",
+        "card_id": "004",
+        "set_code": "SFA",
+        "card_number": "004/064",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/004",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dartrix",
+        "card_id": "004",
+        "set_code": "SFA",
+        "card_number": "004/064",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/004",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dartrix",
+        "card_id": "004",
+        "set_code": "SFA",
+        "card_number": "004/064",
+        "types_or_trainer_type": "Grass",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/004",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Infernape",
+        "card_id": "033",
+        "set_code": "TWM",
+        "card_number": "033/167",
+        "types_or_trainer_type": "Fire",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/033",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Horsea",
+        "card_id": "010",
+        "set_code": "SFA",
+        "card_number": "010/064",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/010",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Feraligatr",
+        "card_id": "041",
+        "set_code": "TEF",
+        "card_number": "041/162",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/041",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Feraligatr",
+        "card_id": "041",
+        "set_code": "TEF",
+        "card_number": "041/162",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/041",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Feraligatr",
+        "card_id": "041",
+        "set_code": "TEF",
+        "card_number": "041/162",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/041",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Feraligatr",
+        "card_id": "041",
+        "set_code": "TEF",
+        "card_number": "041/162",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/041",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Feraligatr",
+        "card_id": "041",
+        "set_code": "TEF",
+        "card_number": "041/162",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/041",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Baxcalibur",
+        "card_id": "060",
+        "set_code": "PAL",
+        "card_number": "060/193",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/060",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "060",
+        "set_code": "TWM",
+        "card_number": "060/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/060",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "060",
+        "set_code": "TWM",
+        "card_number": "060/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/060",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "060",
+        "set_code": "TWM",
+        "card_number": "060/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/060",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "060",
+        "set_code": "TWM",
+        "card_number": "060/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/060",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "060",
+        "set_code": "TWM",
+        "card_number": "060/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/060",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "060",
+        "set_code": "TWM",
+        "card_number": "060/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/060",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "060",
+        "set_code": "TWM",
+        "card_number": "060/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/060",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "060",
+        "set_code": "TWM",
+        "card_number": "060/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/060",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "062",
+        "set_code": "OBF",
+        "card_number": "062/197",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/062",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Palafin",
+        "card_id": "062",
+        "set_code": "OBF",
+        "card_number": "062/197",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv03/062",
+        "tcgDexSet": "sv03"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Glalie",
+        "card_id": "052",
+        "set_code": "TWM",
+        "card_number": "052/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/052",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Glalie",
+        "card_id": "052",
+        "set_code": "TWM",
+        "card_number": "052/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/052",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drednaw",
+        "card_id": "044",
+        "set_code": "SCR",
+        "card_number": "044/142",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/044",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Froslass",
+        "card_id": "053",
+        "set_code": "TWM",
+        "card_number": "053/167",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/053",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Drednaw",
+        "card_id": "044",
+        "set_code": "SCR",
+        "card_number": "044/142",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/044",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Veluza",
+        "card_id": "045",
+        "set_code": "SCR",
+        "card_number": "045/142",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/045",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Veluza",
+        "card_id": "045",
+        "set_code": "SCR",
+        "card_number": "045/142",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/045",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dondozo",
+        "card_id": "061",
+        "set_code": "SVI",
+        "card_number": "061/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/061",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dondozo",
+        "card_id": "061",
+        "set_code": "SVI",
+        "card_number": "061/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/061",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Dondozo",
+        "card_id": "061",
+        "set_code": "SVI",
+        "card_number": "061/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/061",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tatsugiri",
+        "card_id": "062",
+        "set_code": "SVI",
+        "card_number": "062/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/062",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tatsugiri",
+        "card_id": "062",
+        "set_code": "SVI",
+        "card_number": "062/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/062",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tatsugiri",
+        "card_id": "062",
+        "set_code": "SVI",
+        "card_number": "062/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/062",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tatsugiri",
+        "card_id": "062",
+        "set_code": "SVI",
+        "card_number": "062/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/062",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tatsugiri",
+        "card_id": "062",
+        "set_code": "SVI",
+        "card_number": "062/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/062",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tatsugiri",
+        "card_id": "062",
+        "set_code": "SVI",
+        "card_number": "062/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/062",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Tatsugiri",
+        "card_id": "062",
+        "set_code": "SVI",
+        "card_number": "062/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/062",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Quaxly",
+        "card_id": "052",
+        "set_code": "SVI",
+        "card_number": "052/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/052",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Quaxly",
+        "card_id": "052",
+        "set_code": "SVI",
+        "card_number": "052/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/052",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Pokemon",
+        "name": "Quaxly",
+        "card_id": "052",
+        "set_code": "SVI",
+        "card_number": "052/198",
+        "types_or_trainer_type": "Water",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/052",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Energy",
+        "name": "Jet Energy",
+        "card_id": "190",
+        "set_code": "PAL",
+        "card_number": "190/193",
+        "types_or_trainer_type": null,
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/190",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Trainer",
+        "name": "Youngster",
+        "card_id": "198",
+        "set_code": "SVI",
+        "card_number": "198/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/198",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Youngster",
+        "card_id": "198",
+        "set_code": "SVI",
+        "card_number": "198/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/198",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Youngster",
+        "card_id": "198",
+        "set_code": "SVI",
+        "card_number": "198/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/198",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Youngster",
+        "card_id": "198",
+        "set_code": "SVI",
+        "card_number": "198/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/198",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Iris's Fighting Spirit",
+        "card_id": "149",
+        "set_code": "JTG",
+        "card_number": "149/159",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/149",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Trainer",
+        "name": "Technical Machine: Evolution",
+        "card_id": "178",
+        "set_code": "PAR",
+        "card_number": "178/182",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/178",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Trainer",
+        "name": "Antique Cover Fossil",
+        "card_id": "129",
+        "set_code": "SCR",
+        "card_number": "129/142",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/129",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Energy",
+        "name": "Mist Energy",
+        "card_id": "161",
+        "set_code": "TEF",
+        "card_number": "161/162",
+        "types_or_trainer_type": null,
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/161",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Luxurious Cape",
+        "card_id": "166",
+        "set_code": "PAR",
+        "card_number": "166/182",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/166",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Trainer",
+        "name": "Binding Mochi",
+        "card_id": "055",
+        "set_code": "SFA",
+        "card_number": "055/064",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/055",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Exp. Share",
+        "card_id": "174",
+        "set_code": "SVI",
+        "card_number": "174/198",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/174",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Team Star Grunt",
+        "card_id": "195",
+        "set_code": "SVI",
+        "card_number": "195/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/195",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Team Star Grunt",
+        "card_id": "195",
+        "set_code": "SVI",
+        "card_number": "195/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/195",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Friends in Paldea",
+        "card_id": "109",
+        "set_code": "PRE",
+        "card_number": "109/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/109",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Raifort",
+        "card_id": "161",
+        "set_code": "TWM",
+        "card_number": "161/167",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/161",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Trainer",
+        "name": "Raifort",
+        "card_id": "161",
+        "set_code": "TWM",
+        "card_number": "161/167",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/161",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Trainer",
+        "name": "Lucian",
+        "card_id": "157",
+        "set_code": "TWM",
+        "card_number": "157/167",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/157",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Trainer",
+        "name": "Raifort",
+        "card_id": "161",
+        "set_code": "TWM",
+        "card_number": "161/167",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/161",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Trainer",
+        "name": "Lucian",
+        "card_id": "157",
+        "set_code": "TWM",
+        "card_number": "157/167",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/157",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Trainer",
+        "name": "Lacey",
+        "card_id": "139",
+        "set_code": "SCR",
+        "card_number": "139/142",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/139",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Trainer",
+        "name": "Raifort",
+        "card_id": "161",
+        "set_code": "TWM",
+        "card_number": "161/167",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/161",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Trainer",
+        "name": "Youngster",
+        "card_id": "198",
+        "set_code": "SVI",
+        "card_number": "198/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/198",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Youngster",
+        "card_id": "198",
+        "set_code": "SVI",
+        "card_number": "198/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/198",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Potion",
+        "card_id": "188",
+        "set_code": "SVI",
+        "card_number": "188/198",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/188",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Youngster",
+        "card_id": "198",
+        "set_code": "SVI",
+        "card_number": "198/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/198",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Electric Generator",
+        "card_id": "170",
+        "set_code": "SVI",
+        "card_number": "170/198",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/170",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Electric Generator",
+        "card_id": "170",
+        "set_code": "SVI",
+        "card_number": "170/198",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/170",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Miriam",
+        "card_id": "179",
+        "set_code": "SVI",
+        "card_number": "179/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/179",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Glass Trumpet",
+        "card_id": "135",
+        "set_code": "SCR",
+        "card_number": "135/142",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/135",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Trainer",
+        "name": "Techno Radar",
+        "card_id": "180",
+        "set_code": "PAR",
+        "card_number": "180/182",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/180",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Trainer",
+        "name": "Professor Turo's Scenario",
+        "card_id": "171",
+        "set_code": "PAR",
+        "card_number": "171/182",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/171",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Trainer",
+        "name": "Powerglass",
+        "card_id": "063",
+        "set_code": "SFA",
+        "card_number": "063/064",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/063",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Powerglass",
+        "card_id": "063",
+        "set_code": "SFA",
+        "card_number": "063/064",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/063",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Powerglass",
+        "card_id": "063",
+        "set_code": "SFA",
+        "card_number": "063/064",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/063",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Techno Radar",
+        "card_id": "180",
+        "set_code": "PAR",
+        "card_number": "180/182",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/180",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Trainer",
+        "name": "Morty's Conviction",
+        "card_id": "155",
+        "set_code": "TEF",
+        "card_number": "155/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/155",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "143",
+        "set_code": "TWM",
+        "card_number": "143/167",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/143",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Energy",
+        "name": "Reversal Energy",
+        "card_id": "192",
+        "set_code": "PAL",
+        "card_number": "192/193",
+        "types_or_trainer_type": null,
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/192",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Trainer",
+        "name": "Explorer's Guidance",
+        "card_id": "147",
+        "set_code": "TEF",
+        "card_number": "147/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/147",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "143",
+        "set_code": "TWM",
+        "card_number": "143/167",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/143",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Trainer",
+        "name": "Electric Generator",
+        "card_id": "170",
+        "set_code": "SVI",
+        "card_number": "170/198",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/170",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Techno Radar",
+        "card_id": "180",
+        "set_code": "PAR",
+        "card_number": "180/182",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/180",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Trainer",
+        "name": "Lana's Aid",
+        "card_id": "155",
+        "set_code": "TWM",
+        "card_number": "155/167",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/155",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Energy",
+        "name": "Jet Energy",
+        "card_id": "190",
+        "set_code": "PAL",
+        "card_number": "190/193",
+        "types_or_trainer_type": null,
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/190",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Energy",
+        "name": "Reversal Energy",
+        "card_id": "192",
+        "set_code": "PAL",
+        "card_number": "192/193",
+        "types_or_trainer_type": null,
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/192",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Energy",
+        "name": "Reversal Energy",
+        "card_id": "192",
+        "set_code": "PAL",
+        "card_number": "192/193",
+        "types_or_trainer_type": null,
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/192",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Energy",
+        "name": "Jet Energy",
+        "card_id": "190",
+        "set_code": "PAL",
+        "card_number": "190/193",
+        "types_or_trainer_type": null,
+        "image_url": "https://assets.tcgdex.net/en/sv/sv02/190",
+        "tcgDexSet": "sv02"
+    },
+    {
+        "category": "Trainer",
+        "name": "Techno Radar",
+        "card_id": "180",
+        "set_code": "PAR",
+        "card_number": "180/182",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/180",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Trainer",
+        "name": "Explorer's Guidance",
+        "card_id": "147",
+        "set_code": "TEF",
+        "card_number": "147/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/147",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Lana's Aid",
+        "card_id": "155",
+        "set_code": "TWM",
+        "card_number": "155/167",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06/155",
+        "tcgDexSet": "sv06"
+    },
+    {
+        "category": "Trainer",
+        "name": "Electric Generator",
+        "card_id": "170",
+        "set_code": "SVI",
+        "card_number": "170/198",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/170",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Morty's Conviction",
+        "card_id": "155",
+        "set_code": "TEF",
+        "card_number": "155/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/155",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Explorer's Guidance",
+        "card_id": "147",
+        "set_code": "TEF",
+        "card_number": "147/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/147",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Occa Berry",
+        "card_id": "140",
+        "set_code": "SCR",
+        "card_number": "140/142",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv07/140",
+        "tcgDexSet": "sv07"
+    },
+    {
+        "category": "Trainer",
+        "name": "Miriam",
+        "card_id": "179",
+        "set_code": "SVI",
+        "card_number": "179/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/179",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Katy",
+        "card_id": "177",
+        "set_code": "SVI",
+        "card_number": "177/198",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv01/177",
+        "tcgDexSet": "sv01"
+    },
+    {
+        "category": "Trainer",
+        "name": "Heavy Baton",
+        "card_id": "151",
+        "set_code": "TEF",
+        "card_number": "151/162",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/151",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Morty's Conviction",
+        "card_id": "155",
+        "set_code": "TEF",
+        "card_number": "155/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/155",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Salvatore",
+        "card_id": "160",
+        "set_code": "TEF",
+        "card_number": "160/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/160",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Energy",
+        "name": "Mist Energy",
+        "card_id": "161",
+        "set_code": "TEF",
+        "card_number": "161/162",
+        "types_or_trainer_type": null,
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/161",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Powerglass",
+        "card_id": "063",
+        "set_code": "SFA",
+        "card_number": "063/064",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv06.5/063",
+        "tcgDexSet": "sv06.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Morty's Conviction",
+        "card_id": "155",
+        "set_code": "TEF",
+        "card_number": "155/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/155",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Heavy Baton",
+        "card_id": "151",
+        "set_code": "TEF",
+        "card_number": "151/162",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/151",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "102",
+        "set_code": "PRE",
+        "card_number": "102/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/102",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "102",
+        "set_code": "PRE",
+        "card_number": "102/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/102",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "102",
+        "set_code": "PRE",
+        "card_number": "102/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/102",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "102",
+        "set_code": "PRE",
+        "card_number": "102/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/102",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Black Belt's Training",
+        "card_id": "098",
+        "set_code": "PRE",
+        "card_number": "098/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/098",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Kieran",
+        "card_id": "113",
+        "set_code": "PRE",
+        "card_number": "113/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/113",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Techno Radar",
+        "card_id": "130",
+        "set_code": "PRE",
+        "card_number": "130/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/130",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Black Belt's Training",
+        "card_id": "097",
+        "set_code": "PRE",
+        "card_number": "097/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/097",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Amarys",
+        "card_id": "093",
+        "set_code": "PRE",
+        "card_number": "093/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/093",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Black Belt's Training",
+        "card_id": "099",
+        "set_code": "PRE",
+        "card_number": "099/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/099",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Black Belt's Training",
+        "card_id": "099",
+        "set_code": "PRE",
+        "card_number": "099/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/099",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Black Belt's Training",
+        "card_id": "099",
+        "set_code": "PRE",
+        "card_number": "099/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/099",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Lacey",
+        "card_id": "114",
+        "set_code": "PRE",
+        "card_number": "114/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/114",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Janine's Secret Art",
+        "card_id": "112",
+        "set_code": "PRE",
+        "card_number": "112/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/112",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Janine's Secret Art",
+        "card_id": "112",
+        "set_code": "PRE",
+        "card_number": "112/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/112",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "102",
+        "set_code": "PRE",
+        "card_number": "102/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/102",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "102",
+        "set_code": "PRE",
+        "card_number": "102/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/102",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Glass Trumpet",
+        "card_id": "110",
+        "set_code": "PRE",
+        "card_number": "110/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/110",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Binding Mochi",
+        "card_id": "095",
+        "set_code": "PRE",
+        "card_number": "095/131",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/095",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Festival Grounds",
+        "card_id": "108",
+        "set_code": "PRE",
+        "card_number": "108/131",
+        "types_or_trainer_type": "Stadium",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/108",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Techno Radar",
+        "card_id": "130",
+        "set_code": "PRE",
+        "card_number": "130/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/130",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Billy & O'Nare",
+        "card_id": "142",
+        "set_code": "JTG",
+        "card_number": "142/159",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv09/142",
+        "tcgDexSet": "sv09"
+    },
+    {
+        "category": "Trainer",
+        "name": "Glass Trumpet",
+        "card_id": "110",
+        "set_code": "PRE",
+        "card_number": "110/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/110",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "102",
+        "set_code": "PRE",
+        "card_number": "102/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/102",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Lacey",
+        "card_id": "114",
+        "set_code": "PRE",
+        "card_number": "114/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/114",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Lacey",
+        "card_id": "114",
+        "set_code": "PRE",
+        "card_number": "114/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/114",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Perilous Jungle",
+        "card_id": "156",
+        "set_code": "TEF",
+        "card_number": "156/162",
+        "types_or_trainer_type": "Stadium",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/156",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Techno Radar",
+        "card_id": "130",
+        "set_code": "PRE",
+        "card_number": "130/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/130",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Techno Radar",
+        "card_id": "130",
+        "set_code": "PRE",
+        "card_number": "130/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/130",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Janine's Secret Art",
+        "card_id": "112",
+        "set_code": "PRE",
+        "card_number": "112/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/112",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Binding Mochi",
+        "card_id": "095",
+        "set_code": "PRE",
+        "card_number": "095/131",
+        "types_or_trainer_type": "Tool",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/095",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Bug Catching Set",
+        "card_id": "102",
+        "set_code": "PRE",
+        "card_number": "102/131",
+        "types_or_trainer_type": "Item",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/102",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Janine's Secret Art",
+        "card_id": "112",
+        "set_code": "PRE",
+        "card_number": "112/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/112",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Kieran",
+        "card_id": "113",
+        "set_code": "PRE",
+        "card_number": "113/131",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv08.5/113",
+        "tcgDexSet": "sv08.5"
+    },
+    {
+        "category": "Trainer",
+        "name": "Morty's Conviction",
+        "card_id": "155",
+        "set_code": "TEF",
+        "card_number": "155/162",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv05/155",
+        "tcgDexSet": "sv05"
+    },
+    {
+        "category": "Trainer",
+        "name": "Mela",
+        "card_id": "167",
+        "set_code": "PAR",
+        "card_number": "167/182",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04/167",
+        "tcgDexSet": "sv04"
+    },
+    {
+        "category": "Trainer",
+        "name": "Paldean Student",
+        "card_id": "085",
+        "set_code": "PAF",
+        "card_number": "085/091",
+        "types_or_trainer_type": "Supporter",
+        "image_url": "https://assets.tcgdex.net/en/sv/sv04.5/085",
+        "tcgDexSet": "sv04.5"
     }
 ]

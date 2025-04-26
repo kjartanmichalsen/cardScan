@@ -191,7 +191,7 @@ def detect_motion_and_capture(skip_motion_detection=False):
         cv2.destroyAllWindows()
         return None
     else:
-        print("3 second preview before trying again.")
+        print("_-_-_-_-_ Check camera - retry in 3 seconds _-_-_-_-_")
         start_time = time.time()
         while time.time() - start_time < 3:
             ret, frame = cap.read()
@@ -226,7 +226,7 @@ def append_to_excel(file_name, data):
 def main():
     skip_motion_detection = False
     for _ in range(100):
-        print("Waiting for new card")
+        print("------------- waiting for new card --------------")
         image_path = detect_motion_and_capture(skip_motion_detection=skip_motion_detection)
         if image_path:
             cropped_image_path = find_and_crop_card(image_path)
@@ -249,7 +249,7 @@ def main():
             print("Set ID:", setId)
             
             name, category, id, image_url, types_or_trainer_type = query_tcgdex_api(setId, card_id)
-            print("Name:", name)
+            
             print("Category:", category)
             print("ID:", id)
             print("Image URL:", image_url)
@@ -259,6 +259,8 @@ def main():
             elif category == 'Trainer':
                 print("Trainer Type:", types_or_trainer_type)
             
+            print("### Name:", name)
+
             setCode = matches_combinations[-1] if matches_combinations else None
             csv_data = [category, name, card_id, setCode, card_number, types_or_trainer_type, image_url]
             
