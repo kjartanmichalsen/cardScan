@@ -10,6 +10,9 @@ from azure.ai.vision.imageanalysis.models import VisualFeatures
 from azure.core.credentials import AzureKeyCredential
 import openpyxl
 import time
+from playsound import playsound
+# Mac error install fix: pip install playsound@git+https://github.com/taconi/playsound
+# then pip3 install PyObjC
 
 # setup env: python3 -m venv <path>/cardScan
 # env: source <path>/cardScan/bin/activate
@@ -235,11 +238,15 @@ def main():
             if not card_id or not matches_combinations:
                 print(f"Skipping image {image_path}: No card ID or no occurrences of the three-letter uppercase combinations found.")
                 skip_motion_detection = True
+                playsound('error.wav')
+                print("Extracted Text:", extracted_text)
                 continue
             
             if not setId:
                 print(f"Skipping image {image_path}: No set ID found.")
                 skip_motion_detection = True
+                playsound('error.wav')
+                print("Extracted Text:", extracted_text)
                 continue
             
             print("Extracted Text:", extracted_text)
@@ -283,6 +290,9 @@ def main():
             excel_data = [category, types_or_trainer_type, name, setCode, card_number]
             append_to_excel('output/my_cards.xlsx', excel_data)
             
+            # Play a happy sound
+            playsound('ok.wav')
+
             # Reset skip_motion_detection for the next iteration
             skip_motion_detection = False
         else:
